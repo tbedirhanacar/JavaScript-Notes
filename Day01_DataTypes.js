@@ -55,5 +55,3 @@ console.log(typeof(pickedColor));//"object"
 var selectedCar
 console.log(selectedCar);//undefined
 console.log(typeof(selectedCar));//"undefined"
-
-
