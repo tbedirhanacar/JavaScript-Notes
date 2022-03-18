@@ -55,3 +55,10 @@ console.log(typeof(pickedColor));//"object"
 var selectedCar
 console.log(selectedCar);//undefined
 console.log(typeof(selectedCar));//"undefined"
+
+const pi = 3.14; //you can't change it
+
+let four = 4
+four = 4; //can't change it with let keyword 
+
+
